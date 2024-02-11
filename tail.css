@@ -1,0 +1,21 @@
+
+
+body{
+    height:200vh;
+   background-color: black;
+
+}
+
+.skew-transition {
+    transform: skewY(-2deg);
+    transition: transform 0.3s ease-in-out;
+  }
+
+.no-skew {
+    transform: skewY(0);
+  }
+
+.caraousel{
+    height:30%;
+    background-color: azure;
+}
